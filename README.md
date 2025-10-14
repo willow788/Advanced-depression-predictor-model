@@ -92,3 +92,8 @@ This screenshot shows the Enhanced Depression Prediction App interface, where us
 5. Launch the Streamlit app using:  
    ```bash
    streamlit run app.py
+
+   ## 📘 Notes
+This project is for **experimental and educational purposes only.**  
+The dataset and results are synthetic and do not represent medical or clinical accuracy.
+
